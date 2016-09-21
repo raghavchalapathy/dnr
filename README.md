@@ -69,10 +69,3 @@ To see all parameters, simply run:
 
 
 
-## Using DrugBank and Medline DataSets in your experiments.
-
-If you plan to use the data and code If you use this code  and data(DrugBank and Medline) in your scientific publications  kindly cite the papers below 
-
-Isabel Segura-Bedmar, Paloma Mart ́ınez, and Mar ́ıa Her- rero Zazo. 2013. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (DDIEx- traction 2013). In The 7th International Workshop on Semantic Evaluation.
-
-Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, and Chris Dyer. 2016. Neural architectures for named entity recognition. In NAACL-HLT.
