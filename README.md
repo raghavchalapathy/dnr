@@ -1,9 +1,9 @@
 # dnr
 ## An Investigation of Recurrent Neural Architectures for Drug Name Recognition
 
-Drug name recognition (DNR) is an essential step in the Pharmacovigilance (PV) pipeline. DNR aims to find drug name mentions in un- structured biomedical texts and classify them into predefined categories. State-of-the-art DNR approaches heavily rely on hand-crafted features and domain-specific resources which are difficult to collect and tune. For this rea- son, this paper investigates the effectiveness of contemporary recurrent neural architectures - the Elman and Jordan networks and the bidi- rectional LSTM with CRF decoding - at per- forming DNR straight from the text. The experimental results achieved on the author- itative SemEval-2013 Task 9.1 benchmarks show that the bidirectional LSTM-CRF ranks closely to highly-dedicated, hand-crafted sys- tems.
+Drug name recognition (DNR) is an essential step in the Pharmacovigilance (PV) pipeline. DNR aims to find drug name mentions in unstructured biomedical texts and classify them into predefined categories. State-of-the-art DNR approaches heavily rely on hand-crafted features and domain-specific resources which are difficult to collect and tune. For this reason , this paper investigates the effectiveness of contemporary recurrent neural architectures - the Elman and Jordan networks and the bidirectional LSTM with CRF decoding - at performing DNR straight from the text. The experimental results achieved on the author- itative SemEval-2013 Task 9.1 benchmarks show that the bidirectional LSTM-CRF ranks closely to highly-dedicated, hand-crafted systems.
 
-
+The repository contains code and instructions to execute the recurrent neural architecture models.
 
 ## Initial setup
 
@@ -64,6 +64,8 @@ To see all parameters, simply run:
 ## Using DrugBank and Medline DataSets in your experiments.
 
 If you plan to use the data DrugBank and Medline  in your experiments kindly cite the below papers.
+
+Isabel Segura-Bedmar, Paloma Mart ́ınez, and Mar ́ıa Her- rero Zazo. 2013. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (DDIEx- traction 2013). In The 7th International Workshop on Semantic Evaluation
 
 
 
