@@ -1,10 +1,8 @@
 # dnr
-## DNR- Drug Name Recognition - Using bidirectional LSTM CRF .
+## An Investigation of Recurrent Neural Architectures for Drug Name Recognition
 
-DNR  is an implementation of a Named Entity Recognizer that obtains state-of-the-art performance in NER on
-the 4 CoNLL datasets (English, Spanish, German and Dutch) without resorting
-to any language-specific knowledge or resources such as gazetteers.
-Details about the model can be found at: http://arxiv.org/abs/
+Drug name recognition (DNR) is an essential step in the Pharmacovigilance (PV) pipeline. DNR aims to find drug name mentions in un- structured biomedical texts and classify them into predefined categories. State-of-the-art DNR approaches heavily rely on hand-crafted features and domain-specific resources which are difficult to collect and tune. For this rea- son, this paper investigates the effectiveness of contemporary recurrent neural architectures - the Elman and Jordan networks and the bidi- rectional LSTM with CRF decoding - at per- forming DNR straight from the text. The experimental results achieved on the author- itative SemEval-2013 Task 9.1 benchmarks show that the bidirectional LSTM-CRF ranks closely to highly-dedicated, hand-crafted sys- tems.
+
 
 
 ## Initial setup
@@ -12,7 +10,7 @@ Details about the model can be found at: http://arxiv.org/abs/
 To use the dnr, you need Python 2.7, with Numpy and Theano installed.
 
 
-## Using DNR
+## Using DNR-bidirectional LSTM CRF model
 
 The fastest way to use the dnr  is to use one of the pretrained models:
 
