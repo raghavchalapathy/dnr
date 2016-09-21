@@ -61,12 +61,5 @@ To see all parameters, simply run:
 
 
 
-## Using DrugBank and Medline DataSets in your experiments.
-
-If you plan to use the data DrugBank and Medline  in your experiments kindly cite the below papers.
-
-Isabel Segura-Bedmar, Paloma Mart ́ınez, and Mar ́ıa Her- rero Zazo. 2013. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (DDIEx- traction 2013). In The 7th International Workshop on Semantic Evaluation
-
-
 
 The code was forked and reused from
