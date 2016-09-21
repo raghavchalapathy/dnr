@@ -1,16 +1,17 @@
-# dnr
-## An Investigation of Recurrent Neural Architectures for Drug Name Recognition
+## DNR- Drug Name Recognition - Using bidirectional LSTM CRF .
 
-Drug name recognition (DNR) is an essential step in the Pharmacovigilance (PV) pipeline. DNR aims to find drug name mentions in unstructured biomedical texts and classify them into predefined categories. State-of-the-art DNR approaches heavily rely on hand-crafted features and domain-specific resources which are difficult to collect and tune. For this reason , this paper investigates the effectiveness of contemporary recurrent neural architectures - the Elman and Jordan networks and the bidirectional LSTM with CRF decoding - at performing DNR straight from the text. The experimental results achieved on the author- itative SemEval-2013 Task 9.1 benchmarks show that the bidirectional LSTM-CRF ranks closely to highly-dedicated, hand-crafted systems.
+DNR  is an implementation of a Named Entity Recognizer that obtains state-of-the-art performance in NER on
+the 4 CoNLL datasets (English, Spanish, German and Dutch) without resorting
+to any language-specific knowledge or resources such as gazetteers.
+Details about the model can be found at: http://arxiv.org/abs/
 
-The repository contains code and instructions to use the pre-trained models or train the recurrent neural architecture models for drug name recognition on custom data.
 
 ## Initial setup
 
 To use the dnr, you need Python 2.7, with Numpy and Theano installed.
 
 
-## Using DNR-bidirectional LSTM CRF model
+## Using DNR
 
 The fastest way to use the dnr  is to use one of the pretrained models:
 
@@ -59,6 +60,11 @@ The training script will automatically give a name to the model and store it in 
 There are many parameters you can tune (CRF, dropout rate, embedding dimension, LSTM hidden layer size, etc).
 To see all parameters, simply run:
 
+
+
+## Using DrugBank and Medline DataSets in your experiments.
+
+If you plan to use the data DrugBank and Medline  in your experiments kindly cite the below papers.
 
 
 
