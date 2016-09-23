@@ -10,7 +10,7 @@ This repository contains the code and data (DrugBank, MedLine) data sets used in
 
 
 ##If you plan to use the  data(DrugBank and Medline) 
-Kindly send a e-mail request to ISABEL SEGURA BEDMAR <isegura@inf.uc3m.es> for complete data. 
+Kindly send a e-mail request to ISABEL SEGURA BEDMAR <isegura@inf.uc3m.es> in order to obtain  complete data. 
 
 
 ## Initial setup
