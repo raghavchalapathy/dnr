@@ -4,13 +4,9 @@ Drug name recognition (DNR) is an essential step in the Pharmacovigilance (PV) p
 
 This repository contains the code and data (DrugBank, MedLine) data sets used in the accepted paper "An Investigation of Recurrent Neural Architectures for Drug Name Recognition"  at LOUHI 2016 : EMNLP 2016 Workshop - The Seventh International Workshop on Health Text Mining and Information Analysis (LOUHI 2016)
 
-## If you use this code  and data ( DrugBank and MedLine) in your scientific publications  kindly cite the papers below .
+## If you use this code  in your scientific publications  kindly cite the papers below .
 
-
-Isabel Segura-Bedmar, Paloma Mart ́ınez, and Mar ́ıa Her- rero Zazo. 2013. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (DDIEx- traction 2013). In The 7th International Workshop on Semantic Evaluation.
-
-Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, and Chris Dyer. 2016. Neural architectures for named entity recognition. In NAACL-HLT.
-
+##If you plan to use the  data(DrugBank and Medline) kindly send a e-mail request to ISABEL SEGURA BEDMAR <isegura@inf.uc3m.es> for complete data. 
 
 
 ## Initial setup
