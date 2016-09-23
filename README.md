@@ -6,7 +6,11 @@ This repository contains the code and data (DrugBank, MedLine) data sets used in
 
 ## If you use this code  in your scientific publications  kindly cite the papers below .
 
-##If you plan to use the  data(DrugBank and Medline) kindly send a e-mail request to ISABEL SEGURA BEDMAR <isegura@inf.uc3m.es> for complete data. 
+"An Investigation of Recurrent Neural Architectures for Drug Name Recognition"  at LOUHI 2016 : EMNLP 2016 Workshop - The Seventh International Workshop on Health Text Mining and Information Analysis (LOUHI 2016)
+
+
+##If you plan to use the  data(DrugBank and Medline) 
+Kindly send a e-mail request to ISABEL SEGURA BEDMAR <isegura@inf.uc3m.es> for complete data. 
 
 
 ## Initial setup
