@@ -6,7 +6,8 @@ This repository contains the code and  sample data (DrugBank, MedLine) data sets
 
 ## If you use this code  in your scientific publications  kindly cite the papers below .
 
-"An Investigation of Recurrent Neural Architectures for Drug Name Recognition"  at LOUHI 2016 : EMNLP 2016 Workshop - The Seventh International Workshop on Health Text Mining and Information Analysis (LOUHI 2016)
+
+["An Investigation of Recurrent Neural Architectures for Drug Name Recognition"  at LOUHI 2016 : EMNLP 2016 Workshop - The Seventh International Workshop on Health Text Mining and Information Analysis (LOUHI 2016)](http://128.84.21.199/pdf/1609.07585.pdf)
 
 
 ##If you plan to use the  data(DrugBank and Medline) 
